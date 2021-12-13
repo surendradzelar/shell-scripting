@@ -2,4 +2,4 @@
 
 name=surendra
 
-echo "hai\e[32m $name\e[0m" 
+echo -e "\e[31m HAI, $name\e[0m" 
