@@ -18,3 +18,5 @@ echo -e "hai\nhello"
 echo -e "\e[32m what about you"
 echo -e "\e[34m wgt uuujs"\n 
 echo -e "\e[33m ggyysgg gggshhs\e[0m"
+
+echo -e "\e[35m this is my first colour implementation "
