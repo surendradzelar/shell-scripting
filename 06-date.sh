@@ -10,3 +10,5 @@
 date=today
 
 echo -e "\e[34m hai what is date $date \e[0m"
+
+$date
