@@ -15,7 +15,7 @@ DATE=$(date +%F)
 echo -e "\e[32m what is todays date $DATE \e[0m"
 
 
-EXPR=${{2+3-4/3*5}}
+EXPR=$((2+3-4/3*5))
 echo -e "My number $EXPR"
 
 
