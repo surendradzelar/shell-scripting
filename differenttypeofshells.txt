@@ -1,0 +1,15 @@
+Bash - Born again shell (default in the GUI/linux system)
+evolued from "sh,ksh,csh"
+
+zsh
+fish
+
+
+
+_she-bang_
+#!/bin/bash
+#! is she-bang
+"it denotes the path of interpeter and excute the remaining lines"
+For File Only one she-bang is possible
+She-bange is in starting line
+

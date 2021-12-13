@@ -1,0 +1,2 @@
+Variable is assign value to a variablename or variable
+q=1
