@@ -1,5 +1,5 @@
 #!/bin/bash
 
-name=surendra
+name=raju
 
-echo -e "\e[31m HAI, $name\e[0m" 
+echo -e "\e[34m Hai, $name\e[0m"
