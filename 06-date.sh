@@ -20,7 +20,7 @@ echo -e "\e[33m My number $EXPR\e[0m"
 
 
 
-DATE=$(date + %F)
+DATE=$(date +%F)
 echo -e "\e[32m today date $DATE \e[0m"
 
 
