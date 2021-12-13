@@ -10,5 +10,9 @@
 ################################################
 
 #syntax: echo -e "\e[colmmessage"
+# sysntax: echo -e "hai\nhello"
+# syntax: echo -e "\e[colmmessage"
 
 echo -e "\e[31mMy name is surendra"
+echo -e "hai\nhello"
+echo -e "\e[32m what about you"
