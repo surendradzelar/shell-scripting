@@ -11,4 +11,7 @@ date=today
 
 echo -e "\e[34m hai what is date $date \e[0m"
 
-$date
+date=${date+%F}
+echo -e "\e[32m what is todays date $date\e[0m"
+
+
